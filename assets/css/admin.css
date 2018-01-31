@@ -1,0 +1,10 @@
+/*: assets/css/admin.css :*/
+
+.misc-pub-visibility,
+.inline-edit-col-left .inline-edit-col > label + label,
+.inline-edit-col-left .inline-edit-col > .inline-edit-group {
+	display: none;
+}
+div.select2-container--default .select2-selection--single .select2-selection__rendered {
+	line-height: 27px;
+}
